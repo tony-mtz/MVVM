@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<EmployeeRoot>
+  
+    <Employee id="salaried">
+      <ssn>111-11-1111</ssn>
+      <firstName>John</firstName>
+      <lastName>Smith</lastName>
+      <salary>700.00</salary>
+    </Employee>
+    <Employee id="salaried">
+      <ssn>555-55-5555</ssn>
+      <firstName>Antonio</firstName>
+      <lastName>Smith</lastName>
+      <salary>800.00</salary>
+    </Employee>
+    <Employee id="salaried">
+      <ssn>444-44-4444</ssn>
+      <firstName>Victor</firstName>
+      <lastName>Smith</lastName>
+      <salary>600.00</salary>
+    </Employee>
+  
+
+  
+    <Employee id="commission">
+      <ssn>333-33-3333</ssn>
+      <firstName>Sue</firstName>
+      <lastName>Jones</lastName>
+      <grossSales>10000</grossSales>
+      <commissionRate>0.06</commissionRate>
+    </Employee>
+  
+    <Employee id="hourly">
+      <ssn>222-22-2222</ssn>
+      <firstName>Karen</firstName>
+      <lastName>Price</lastName>
+      <wage>16.75</wage>
+      <hours>40</hours>
+    </Employee>
+    <Employee id="hourly">
+      <ssn>666-66-6666</ssn>
+      <firstName>Ruben</firstName>
+      <lastName>Zamora</lastName>
+      <wage>20.00</wage>
+      <hours>40</hours>
+    </Employee>
+     <Employee id="base">
+      <ssn>777-77-7777</ssn>
+      <firstName>Bob</firstName>
+      <lastName>Lewis</lastName>
+      <grossSales>5000</grossSales>
+      <commissionRate>0.04</commissionRate>
+      <baseSalary>300</baseSalary>
+    </Employee>
+    <Employee id="base">
+      <ssn>888-88-8888</ssn>
+      <firstName>Lee</firstName>
+      <lastName>Duarte</lastName>
+      <grossSales>5000</grossSales>
+      <commissionRate>0.04</commissionRate>
+      <baseSalary>300</baseSalary>
+    </Employee>
+ 
+
+  </EmployeeRoot>
